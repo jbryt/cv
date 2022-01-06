@@ -1,0 +1,132 @@
+body{
+  margin: 0;
+}
+
+div.top{
+  background-color: #9CC094;
+  text-align: center;
+  margin: 0;
+  font-size: 32px;
+  font-family: 'Shadows Into Light', cursive;
+  color: #519259;
+
+}
+img.top-cloud{
+  width: 100px;
+  height: 40px;
+  position: absolute;
+  top: 180px;
+  left: 480px;
+}
+
+img.buttom-cloud{
+  width: 100px;
+  height: 40px;
+  position: absolute;
+  top: 160px;
+  right: 480px;
+}
+img.mountain{
+  width: 300px;
+  height: 120px;
+  position: relative;
+  bottom: -12px;
+}
+.myphoto{
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  margin-top: 30px;
+  float: left;
+  padding-right: 20px;
+}
+.profile{
+  text-align: left;
+  padding-left: 50px;
+}
+
+.skill-row{
+  text-align: left;
+  padding-left: 50px;
+
+}
+.pc{
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  float: left;
+  padding-right: 20px;
+  margin-bottom: 40px;
+}
+.work-history{
+  text-align: center;
+  margin-top: 0;
+}
+.center{
+
+}
+
+.dates{
+
+  vertical-align: top;
+  padding-left: 50px;
+  width: 120px;
+
+
+}
+
+.description{
+  margin-top: 0;
+
+
+
+
+}
+
+.work{
+
+text-align: left;
+padding-left: 30px;
+padding-right: 400px;
+}
+.list{
+  padding-left: 10px;
+}
+.education{
+  text-align: center;
+  margin-top: 0;
+}
+.contact-me{
+  text-align: center;
+  margin-top: 0;
+}
+h2{
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.btn{
+  background-color:#519259;
+  font-weight: bold;
+  color:white;
+  border-radius:30px;
+  text-decoration: none;
+  padding: 10px 20px
+
+
+}
+.bottom-container{
+  background-color: #9CC094;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 15px 0px;
+  color:white;
+  margin: 0;
+
+}
+.footer-link{
+  color:;
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #519259
+}
